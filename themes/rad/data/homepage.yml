@@ -1,0 +1,214 @@
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Rathesh Prabakar."
+  subtitle: "Developer"
+  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  image:
+    x: "img/showcase/showcase.png"
+    _2x: "img/showcase/showcase@2x.png"
+  imageMobile:
+    x: "img/showcase/showcase-mobile.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "mailto:ratheshprabakar@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/ratheshprabakar/"
+
+    - icon: "github"
+      URL: "https://github.com/Ratheshprabakar"
+
+    - icon: "twitter"
+      URL: "https://twitter.com/PrabakarRathesh"
+
+    - icon: "youtube"
+      URL: "https://www.youtube.com/channel/UCBiI02qZZ0uupivfAZ5QR5Q"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/ratheshprabakar/"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: '<p class="lead">
+    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
+    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
+    good for all of you.
+    </p>
+    <p class="lead">
+    My area of focus lies in designing web and mobile products, user research as well as
+    leading of design & front-end teams. I enjoy designing and coding the UI as much as
+    talking with users to iterate and improve the experiences that reach business goals.
+    </p>'
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://youtu.be/DpohYSd85Xo"
+  image:
+    x: "img/who-am-i/user-picture.png"
+    _2x: "img/who-am-i/user-picture@2x.png"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Government College of Technology"
+      year: "2017-2021"
+      degree: "Bachelor of Technology(B.Tech), Information Technology"
+
+    - university: "S.B.K.Hr.Sec.School"
+      year: "2011-2016"
+      degree: "High School Degree - Computer Science"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/ratheshprabakar/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "#"
+
+  items:
+    - title: "Sr. Front-End Developer"
+      company: "Radity"
+      duration: "Feb 2011 - Sep 2019"
+
+    - title: "Sr. Front-End Developer"
+      company: "Textic"
+      duration: "Apr 2010 - Jan 2011"
+
+    - title: "Jr. Front-End Developer"
+      company: "Cyberse"
+      duration: "Jun 2009 - Mar 2010"
+
+# Client & Work
+client_and_work:
+  title: "Skills & Works"
+  enable: true
+
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Green Club GCT - Website"
+      description: "Created a website for my college club, GREEN CLUB GCT. It was initiated with the view of promoting research and development in green engineering concepts and energy conservation activities.                    
+"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        URL: "http://greenclubgct.com"
+      image:
+        x: "img/works/1.jpg"
+        _2x: "img/works/1@2.jpg"
+      is_even: true
+
+    - title: "Machine Learning Workshop Website"
+      description: "Created a website for my department workshop. It contains description, workshop details, workshop registration with automatic unique ID generation, contact details."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        URL: "https://gctit.com/workshop"
+      image:
+        x: "img/works/2.jpg"
+        _2x: "img/works/2@2.jpg"
+      is_even: false
+
+    - title: "Robo Advisor"
+      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        URL: "#"
+      image:
+        x: "img/works/robo-advisor.jpg"
+        _2x: "img/works/robo-advisor@2x.jpg"
+      is_even: true
+    - title: "Swiss Fintech Website"
+      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        URL: "#"
+      image:
+        x: "img/works/swissfintech.jpg"
+        _2x: "img/works/swissfintech@2x.jpg"
+      is_even: false
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Testimonials"
+  items:
+    - name: "Ahamed Musthafa"
+      position: "Zelthy, Developer"
+      content: "An enthusiastic developer who wants to do innovative things while studying in college. Though I haven't worked with you, your works have amazed me sometimes. Keep going with your awesomeness. Learn a lot ! Develop a lot !!"
+      image:
+        x: "img/testimonials/daniel-jordan.jpg"
+        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+
+    - name: "Swathy SV"
+      position: "GCT, Student"
+      content: "Not many people can be so efficient as Mr. Rathesh Prabakar. I still wonder how a person in 20 become a synonym for professionalism.He is a talented technician and an effective supervisor. I have worked with him as a placement representative. Although our collaboration lasted for few months only, I learnt his capability of turning the process of cooperation into an engaging victory. I highly recommend Rathesh as a professional that you can learn a lot from."
+      image:
+        x: "img/testimonials/jonathan-peters.jpeg"
+        _2x: "img/testimonials/jonathan-peters@2x.jpeg"
+
+    - name: "Dinesh Durai"
+      position: "Godreg & Boyce, Trainee"
+      content: "Rathesh Prabakar has everything that it takes to be a great professional, from identifying things to do that would matter in the long run to actually executing them on precise schedules, portraying his management ability. All this while being modest, humble and ambitious at the same time.
+Waiting to see you make a wonderful career for yourself!!! "
+      image:
+        x: "img/testimonials/antonio-willis.jpeg"
+        _2x: "img/testimonials/antonio-willis@2x.jpeg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  phone:
+    title: "Phone Number"
+    number: "+91 8124807980(For Late Replies)"
+  email:
+    title: "Email"
+    email: '<a href="mailto:ratheshpprabakar@gmail.com">ratheshprabakar@gmail.com</a>'
+
