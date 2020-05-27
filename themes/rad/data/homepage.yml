@@ -31,6 +31,7 @@ showcase:
     - icon: "instagram"
       URL: "https://www.instagram.com/ratheshprabakar/"
 
+
 # about
 about:
   enable: true
@@ -69,8 +70,8 @@ education:
 # experience
 experience:
   enable: true
-  title: "Certifications"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  title: "Awards & Certifications"
+  description: "Over 5+ certifications from leading MOOC's like Coursera, Linkedin Learning, Datacamp and Udemy. Grabbed some of the milestones in academics as well as technical."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -81,13 +82,14 @@ experience:
     URL: "#"
 
   items:
-    - title: "Sr. Front-End Developer"
-      company: "Radity"
-      duration: "Feb 2011 - Sep 2019"
 
     - title: "Sr. Front-End Developer"
       company: "Textic"
       duration: "Apr 2010 - Jan 2011"
+
+    - title: "Jr. Front-End Developer"
+      company: "Cyberse"
+      duration: "Jun 2009 - Mar 2010"
 
     - title: "Jr. Front-End Developer"
       company: "Cyberse"
@@ -206,7 +208,7 @@ contact:
   enable: true
   title: "Contact"
   phone:
-    title: "Phone Number"
+    title: "Whatsapp"
     number: "+91 8124807980(For Late Replies)"
   email:
     title: "Email"
