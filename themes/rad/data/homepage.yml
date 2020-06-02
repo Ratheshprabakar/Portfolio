@@ -37,14 +37,8 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
-    </p>
-    <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well as
-    leading of design & front-end teams. I enjoy designing and coding the UI as much as
-    talking with users to iterate and improve the experiences that reach business goals.
+            An optimistic developer who loves to work with several new technologies and tools. A logical problem solver with strong competency skills on C & Python. I love to stay consistent, self learn things and constantly push myself beyond conventional patterns. I am the person who  strongly believes and keep track of 3Cs(Consistency, Collaboration, Contribution) in life. </p>
+ <p class="lead"> A remarkable writer with catchy content writing skills. I love to share my each and every learning through blog post.
     </p>'
   button:
     icon: "icon-smile-fill"
