@@ -109,34 +109,29 @@ client_and_work:
 
   clients:
     - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
+        x: "img/clients/c.png"
+        _2x: "img/clients/c@2x.png"
+      alt: "C"
 
     - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
+        x: "img/clients/python.png"
+        _2x: "img/clients/python@2x.png"
+      alt: "Python"
 
     - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
+        x: "img/clients/git.png"
+        _2x: "img/clients/git@2x.png"
+      alt: "Git"
 
     - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
+        x: "img/clients/bootstrap.png"
+        _2x: "img/clients/bootstrap@2x.png"
+      alt: "HTML"
 
     - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
-
-    - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
+        x: "img/clients/mysql_php.png"
+        _2x: "img/clients/mysql_php@2x.png"
+      alt: "CSS"
 
   works:
     - title: "Green Club GCT - Website"
