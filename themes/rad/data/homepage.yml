@@ -12,7 +12,7 @@ showcase:
 
   button:
     icon: "icon-mail-fill"
-    btnText: "Contact"
+    btnText: "Hire Me"
     URL: "mailto:ratheshprabakar@gmail.com"
 
   socialLinks:
@@ -58,27 +58,36 @@ education:
       degree: "Bachelor of Technology(B.Tech), Information Technology"
 
     - university: "S.B.K.Hr.Sec.School"
-      year: "2011-2016"
+      year: "2015-2017"
       degree: "High School Degree - Computer Science"
+    
+    - university: "S.B.K.Hr.Sec.School"
+      year: "2013-2015"
+      degree: "Secondary School Degree - State Board"
 
 # experience
 exp:
   enable: true
-  title: "Experience"
+  title: "Experience & Volunteering"
   items:
-    - university: "Government College of Technology"
-      year: "2017-2021"
-      degree: "Bachelor of Technology(B.Tech), Information Technology"
+    - university: "Placement Coordinator"
+      year: "Feb 2019-Present"
+      degree: "Government College Of Technology"
 
-    - university: "S.B.K.Hr.Sec.School"
-      year: "2011-2016"
-      degree: "High School Degree - Computer Science"
+    - university: "Event Organizer"
+      year: "June 2020-Present"
+      degree: "Y's Service Club of GCT Youth"
+
+    - university: "Web Developer Intern"
+      year: "April 2019-May 2019"
+      degree: "Forge Accelerator, Coimbatore"
+    
 
 # Awards and certifications
 experience:
   enable: true
   title: "Awards & Certifications"
-  description: "Over 5+ certifications from leading MOOC's like Coursera, Linkedin Learning, Datacamp and Udemy. Grabbed some of the milestones in academics as well as technical."
+  description: "Over 5+ certifications from leading MOOC's like Coursera, Linkedin Learning, Datacamp, NPTEL and Udemy. Grabbed some of the milestones in academics as well as technical."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
