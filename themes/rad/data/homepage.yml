@@ -166,25 +166,26 @@ client_and_work:
         _2x: "img/works/2@2.jpg"
       is_even: false
 
-    - title: "Robo Advisor"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+    - title: "Food Ordering System"
+      description: "A mini project on C to implement Food ordering with login, signup, search by food, search by hotels, Order by food, Order by hotels, cart & Order Confirmation functionalities."
       button:
         icon: "icon-arrow-right"
         btnText: "View"
-        URL: "#"
+        URL: "https://github.com/Ratheshprabakar/Food-Ordering-System"
       image:
-        x: "img/works/robo-advisor.jpg"
-        _2x: "img/works/robo-advisor@2x.jpg"
+        x: "img/works/3.png"
+        _2x: "img/works/3@2.png"
       is_even: true
-    - title: "Swiss Fintech Website"
-      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+
+    - title: "Contact Management System"
+      description: "A mini project on C to create and manage your contacts. This project will contains Addition, Deletion, Contact Search, Displaying contact book functionalities."
       button:
         icon: "icon-arrow-right"
         btnText: "View"
-        URL: "#"
+        URL: "https://github.com/Ratheshprabakar/Contact-Management-System"
       image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
+        x: "img/works/6.png"
+        _2x: "img/works/6@2.png"
       is_even: false
 
 # testimonial
