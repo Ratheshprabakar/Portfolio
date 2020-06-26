@@ -155,6 +155,7 @@ client_and_work:
         _2x: "img/works/1@2.jpg"
       is_even: true
 
+#ITA GCT Workshop Website
     - title: "Machine Learning Workshop Website"
       description: "Created a website for my department workshop. It contains description, workshop details, workshop registration with automatic unique ID generation, contact details."
       button:
@@ -166,6 +167,7 @@ client_and_work:
         _2x: "img/works/2@2.jpg"
       is_even: false
 
+#Food Ordering System
     - title: "Food Ordering System"
       description: "A mini project on C to implement Food ordering with login, signup, search by food, search by hotels, Order by food, Order by hotels, cart & Order Confirmation functionalities."
       button:
@@ -177,6 +179,7 @@ client_and_work:
         _2x: "img/works/3@2.png"
       is_even: true
 
+#Contact Management System
     - title: "Contact Management System"
       description: "A mini project on C to create and manage your contacts. This project will contains Addition, Deletion, Contact Search, Displaying contact book functionalities."
       button:
@@ -187,6 +190,81 @@ client_and_work:
         x: "img/works/6.png"
         _2x: "img/works/6@2.png"
       is_even: false
+
+#Smart Message Alert System
+    - title: "Smart Message Alert System"
+      description: "A mini project which can send SMS alert to the faculties regarding their classes daily. In this project I used MSG91 API through which I am sending alert to respective mobile numbers with customized messages.
+Language : Python, API : MSG91."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        URL: "https://github.com/Ratheshprabakar/Smart-Message-Alert-System"
+      image:
+        x: "img/works/3.png"
+        _2x: "img/works/3@2.png"
+      is_even: true
+
+#IDENTITY 2020
+    - title: "IDENTITY - 2020"
+      description: "Created a simple static website in bootstrap to promote an event with their guidelines and selection procedure details."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        URL: "https://identity2020.netlify.app/"
+      image:
+        x: "img/works/6.png"
+        _2x: "img/works/6@2.png"
+      is_even: false
+
+#Podcast - Kadhai Kadhaiyai Kadhaikalam
+    - title: "Kadhai Kadhaiyai Kadhaikalam"
+      description: "Desigining A bootstraped website to project the podcasts of the user from different platforms including spotify, Google podcast etc.,."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        URL: "https://projpodcast.netlify.app"
+      image:
+        x: "img/works/3.png"
+        _2x: "img/works/3@2.png"
+      is_even: true
+
+#War Card Game
+    - title: "War Card Game"
+      description: "A mini project on python where the  War (also known as Battle in the United Kingdom) is a card game typically played by two players. It uses a standard playing card deck.The objective of the game is to win all of the cards."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        URL: "https://github.com/Ratheshprabakar/War-Card-Game"
+      image:
+        x: "img/works/6.png"
+        _2x: "img/works/6@2.png"
+      is_even: false
+
+#Python Packages
+    - title: "Python Packages"
+      description: "Created some PyPi packages for simple tasks like to find the Length of the digit without typecasting to the string, To count Number of vowels and consonants in a string."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        URL: "https://projpodcast.netlify.app"
+      image:
+        x: "img/works/3.png"
+        _2x: "img/works/3@2.png"
+      is_even: true
+
+#Train Enquiry System
+    - title: "Train Enquiry System"
+      description: "Created a dynaimic Web page to display the train details, search the train by source and destination and enquires about the time of the train using PHP."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        URL: "https://github.com/Ratheshprabakar/Train_Reservation_System"
+      image:
+        x: "img/works/6.png"
+        _2x: "img/works/6@2.png"
+      is_even: false
+
+
 
 # testimonial
 testimonial:
