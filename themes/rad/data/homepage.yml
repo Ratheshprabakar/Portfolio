@@ -167,6 +167,42 @@ client_and_work:
         _2x: "img/works/2@2.jpg"
       is_even: false
 
+#Study Blog
+    - title: "Study Blog"
+      description: "Created a blog to share any materials towards students to minimise the usage of whatsapp and to overcome the circumstances like Insufficient storage ,New phone, New to whatsapp and finally the major thing is Machine Dependant.By this way, we can easily access those files from anywhere."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        URL: "https://www.ithackerjacks.blogspot.com/"
+      image:
+        x: "img/works/blog.png"
+        _2x: "img/works/blog@2.png"
+      is_even: true
+
+#IDENTITY 2020
+    - title: "IDENTITY - 2020"
+      description: "Created a simple static website in bootstrap to promote an event with their guidelines and selection procedure details."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        URL: "https://identity2020.netlify.app/"
+      image:
+        x: "img/works/identity.png"
+        _2x: "img/works/identity@2.png"
+      is_even: false
+
+#Podcast - Kadhai Kadhaiyai Kadhaikalam
+    - title: "Kadhai Kadhaiyai Kadhaikalam"
+      description: "Desigining A bootstraped website to project the podcasts of the user from different platforms including spotify, Google podcast etc.,."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        URL: "https://projpodcast.netlify.app"
+      image:
+        x: "img/works/kkk.png"
+        _2x: "img/works/kkk@2.png"
+      is_even: true
+
 #Food Ordering System
     - title: "Food Ordering System"
       description: "A mini project on C to implement Food ordering with login, signup, search by food, search by hotels, Order by food, Order by hotels, cart & Order Confirmation functionalities."
@@ -177,7 +213,7 @@ client_and_work:
       image:
         x: "img/works/3.png"
         _2x: "img/works/3@2.png"
-      is_even: true
+      is_even: false
 
 #Contact Management System
     - title: "Contact Management System"
@@ -189,6 +225,18 @@ client_and_work:
       image:
         x: "img/works/6.png"
         _2x: "img/works/6@2.png"
+      is_even: true
+
+#Ticket Booking/Cancellation System
+    - title: "Ticket Management System"
+      description: "A mini project on C which implements the ticket booking,cancellation and verify the booked seat status."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        URL: "https://github.com/Ratheshprabakar/Ticket_booking-cancellation_system"
+      image:
+        x: "img/works/3.png"
+        _2x: "img/works/3@2.png"
       is_even: false
 
 #Smart Message Alert System
@@ -204,29 +252,6 @@ Language : Python, API : MSG91."
         _2x: "img/works/3@2.png"
       is_even: true
 
-#IDENTITY 2020
-    - title: "IDENTITY - 2020"
-      description: "Created a simple static website in bootstrap to promote an event with their guidelines and selection procedure details."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "View"
-        URL: "https://identity2020.netlify.app/"
-      image:
-        x: "img/works/6.png"
-        _2x: "img/works/6@2.png"
-      is_even: false
-
-#Podcast - Kadhai Kadhaiyai Kadhaikalam
-    - title: "Kadhai Kadhaiyai Kadhaikalam"
-      description: "Desigining A bootstraped website to project the podcasts of the user from different platforms including spotify, Google podcast etc.,."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "View"
-        URL: "https://projpodcast.netlify.app"
-      image:
-        x: "img/works/3.png"
-        _2x: "img/works/3@2.png"
-      is_even: true
 
 #War Card Game
     - title: "War Card Game"
@@ -265,14 +290,13 @@ Language : Python, API : MSG91."
       is_even: false
 
 
-
 # testimonial
 testimonial:
   enable: true
   title: "Testimonials"
   items:
     - name: "Ahamed Musthafa"
-      position: "Zelthy, Developer"
+      position: "Zelthy, Backend Developer"
       content: "An enthusiastic developer who wants to do innovative things while studying in college. Though I haven't worked with you, your works have amazed me sometimes. Keep going with your awesomeness. Learn a lot ! Develop a lot !!"
       image:
         x: "img/testimonials/daniel-jordan.jpg"
@@ -282,16 +306,16 @@ testimonial:
       position: "GCT, Student"
       content: "Not many people can be so efficient as Mr. Rathesh Prabakar. I still wonder how a person in 20 become a synonym for professionalism.He is a talented technician and an effective supervisor. I have worked with him as a placement representative. Although our collaboration lasted for few months only, I learnt his capability of turning the process of cooperation into an engaging victory. I highly recommend Rathesh as a professional that you can learn a lot from."
       image:
-        x: "img/testimonials/jonathan-peters.jpeg"
-        _2x: "img/testimonials/jonathan-peters@2x.jpeg"
+        x: "img/testimonials/swathysv.jpeg"
+        _2x: "img/testimonials/swathysv@2x.jpeg"
 
     - name: "Dinesh Durai"
       position: "Godreg & Boyce, Trainee"
       content: "Rathesh Prabakar has everything that it takes to be a great professional, from identifying things to do that would matter in the long run to actually executing them on precise schedules, portraying his management ability. All this while being modest, humble and ambitious at the same time.
 Waiting to see you make a wonderful career for yourself!!! "
       image:
-        x: "img/testimonials/antonio-willis.jpeg"
-        _2x: "img/testimonials/antonio-willis@2x.jpeg"
+        x: "img/testimonials/dd.jpeg"
+        _2x: "img/testimonials/dd@2x.jpeg"
 
 # contact
 contact:
