@@ -211,8 +211,8 @@ client_and_work:
         btnText: "View"
         URL: "https://github.com/Ratheshprabakar/Food-Ordering-System"
       image:
-        x: "img/works/3.png"
-        _2x: "img/works/3@2.png"
+        x: "img/works/food.png"
+        _2x: "img/works/food@2.png"
       is_even: false
 
 #Contact Management System
@@ -223,8 +223,8 @@ client_and_work:
         btnText: "View"
         URL: "https://github.com/Ratheshprabakar/Contact-Management-System"
       image:
-        x: "img/works/6.png"
-        _2x: "img/works/6@2.png"
+        x: "img/works/contact.png"
+        _2x: "img/works/contact@2.png"
       is_even: true
 
 #Ticket Booking/Cancellation System
@@ -235,8 +235,8 @@ client_and_work:
         btnText: "View"
         URL: "https://github.com/Ratheshprabakar/Ticket_booking-cancellation_system"
       image:
-        x: "img/works/3.png"
-        _2x: "img/works/3@2.png"
+        x: "img/works/ticket.png"
+        _2x: "img/works/ticket@2.png"
       is_even: false
 
 #Smart Message Alert System
@@ -248,8 +248,8 @@ Language : Python, API : MSG91."
         btnText: "View"
         URL: "https://github.com/Ratheshprabakar/Smart-Message-Alert-System"
       image:
-        x: "img/works/3.png"
-        _2x: "img/works/3@2.png"
+        x: "img/works/alert.png"
+        _2x: "img/works/alert@2.png"
       is_even: true
 
 
@@ -261,8 +261,8 @@ Language : Python, API : MSG91."
         btnText: "View"
         URL: "https://github.com/Ratheshprabakar/War-Card-Game"
       image:
-        x: "img/works/6.png"
-        _2x: "img/works/6@2.png"
+        x: "img/works/war1.png"
+        _2x: "img/works/war1@2.png"
       is_even: false
 
 #Python Packages
@@ -271,10 +271,10 @@ Language : Python, API : MSG91."
       button:
         icon: "icon-arrow-right"
         btnText: "View"
-        URL: "https://projpodcast.netlify.app"
+        URL: "https://pypi.org/project/length/"
       image:
-        x: "img/works/3.png"
-        _2x: "img/works/3@2.png"
+        x: "img/works/python.png"
+        _2x: "img/works/python@2.png"
       is_even: true
 
 #Train Enquiry System
@@ -285,8 +285,8 @@ Language : Python, API : MSG91."
         btnText: "View"
         URL: "https://github.com/Ratheshprabakar/Train_Reservation_System"
       image:
-        x: "img/works/6.png"
-        _2x: "img/works/6@2.png"
+        x: "img/works/train.png"
+        _2x: "img/works/train@2.png"
       is_even: false
 
 
