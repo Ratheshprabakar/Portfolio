@@ -3,12 +3,12 @@ showcase:
   enable: true
   title: "Hello, I’m Rathesh Prabakar."
   subtitle: "Developer"
-  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  description: "If you search about anyone in Google, you are an ordinary person. If anyone search about you in Google, you are an extraordinary person. I am an enthusistic student with ready to learn new things and wish to be developer rather than an user."
   image:
-    x: "img/showcase/head1.png"
-    _2x: "img/showcase/head1@2x.png"
+    x: "img/showcase/showcase.png"
+    _2x: "img/showcase/shocase@2x.png"
   imageMobile:
-    x: "img/showcase/head-mobile.png"
+    x: "img/showcase/showcase-mobile.png"
 
   button:
     icon: "icon-mail-fill"
@@ -99,17 +99,17 @@ experience:
 
   items:
 
-    - title: "Sr. Front-End Developer"
-      company: "Textic"
-      duration: "Apr 2010 - Jan 2011"
+    - title: "Winner - 404 Not Found(Web)"
+      company: "Geekscoop - GCTITA"
+      duration: "Feb 2019"
 
-    - title: "Jr. Front-End Developer"
+    - title: "Academic Third(II Semester)"
       company: "GCT"
-      duration: "Jun 2009 - Mar 2010"
+      duration: "Jan 2017 - April 2018"
 
-    - title: "Jr. Front-End Developer"
+    - title: "Academic Third(I Semester)"
       company: "GCT"
-      duration: "Jun 2009 - Mar 2010"
+      duration: "Aug 2017 - Dec 2017"
 
 # Client & Work
 client_and_work:
@@ -323,7 +323,7 @@ contact:
   title: "Contact"
   phone:
     title: "Whatsapp"
-    number: "+91 8124807980(For Late Replies)"
+    number: "+91 8124807980"
   email:
     title: "Email"
     email: '<a href="mailto:ratheshpprabakar@gmail.com">ratheshprabakar@gmail.com</a>'
