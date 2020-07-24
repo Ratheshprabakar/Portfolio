@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Rathesh Prabakar."
   subtitle: "Developer"
-  description: "If you search about anyone in Google, you are an ordinary person. If anyone search about you in Google, you are an extraordinary person. I am an enthusistic student with ready to learn new things and wish to be developer rather than an user."
+  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
   image:
     x: "img/showcase/head1.png"
     _2x: "img/showcase/head1@2x.png"
@@ -99,17 +99,17 @@ experience:
 
   items:
 
-    - title: "Winner - 404 Not Found(Web)"
-      company: "Geekscoop - GCTITA"
-      duration: "Feb 2019"
+    - title: "Sr. Front-End Developer"
+      company: "Textic"
+      duration: "Apr 2010 - Jan 2011"
 
-    - title: "Academic Third(II Semester)"
+    - title: "Jr. Front-End Developer"
       company: "GCT"
-      duration: "Jan 2017 - April 2018"
+      duration: "Jun 2009 - Mar 2010"
 
-    - title: "Academic Third(I Semester)"
+    - title: "Jr. Front-End Developer"
       company: "GCT"
-      duration: "Aug 2017 - Dec 2017"
+      duration: "Jun 2009 - Mar 2010"
 
 # Client & Work
 client_and_work:
@@ -323,7 +323,7 @@ contact:
   title: "Contact"
   phone:
     title: "Whatsapp"
-    number: "+91 8124807980"
+    number: "+91 8124807980(For Late Replies)"
   email:
     title: "Email"
     email: '<a href="mailto:ratheshpprabakar@gmail.com">ratheshprabakar@gmail.com</a>'
