@@ -5,10 +5,10 @@ showcase:
   subtitle: "Developer"
   description: "If you search about anyone in Google, you are an ordinary person. If anyone search about you in Google, you are an extraordinary person. I am an enthusistic student with ready to learn new things and wish to be developer rather than an user."
   image:
-    x: "img/showcase/showcase.png"
-    _2x: "img/showcase/showcase@2x.png"
+    x: "img/showcase/head1.png"
+    _2x: "img/showcase/head1@2x.png"
   imageMobile:
-    x: "img/showcase/showcase-mobile.jpg"
+    x: "img/showcase/head-mobile.png"
 
   button:
     icon: "icon-mail-fill"
@@ -193,11 +193,11 @@ client_and_work:
 
 #Podcast - Kadhai Kadhaiyai Kadhaikalam
     - title: "Kadhai Kadhaiyai Kadhaikalam"
-      description: "Desigining A bootstraped website to project the podcasts of the user from different platforms including spotify, Google podcast etc.,."
+      description: "Developed A bootstraped website to project the podcasts of the user from different platforms including spotify, Google podcast etc.,."
       button:
         icon: "icon-arrow-right"
         btnText: "View"
-        URL: "https://projpodcast.netlify.app"
+        URL: "https://www.k2kadhaikalam.com"
       image:
         x: "img/works/kkk.png"
         _2x: "img/works/kkk@2.png"
