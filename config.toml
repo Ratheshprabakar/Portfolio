@@ -37,7 +37,7 @@ theme = "rad"
 
   [[menu.header]]
   name = "Blog"
-  URL = "https://ratheshprabakar.me/blog"
+  URL = "https:///medium.com/@ratheshprabakar"
   weight = 4
 
   [[menu.header]]
@@ -58,7 +58,7 @@ theme = "rad"
 
   [[menu.footer]]
   name = "Blog"
-  URL = "https://ratheshprabakar.me/blog"
+  URL = "https:///medium.com/@ratheshprabakar"
   weight = 4
 
   [[menu.footer]]
