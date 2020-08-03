@@ -95,7 +95,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "#"
+    URL: "https://drive.google.com/file/d/16si-bFmrm8aNuO4pgezdp20UoiWyM8bE/view?usp=sharing"
 
   items:
 
